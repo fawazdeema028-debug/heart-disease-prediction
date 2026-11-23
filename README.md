@@ -1,6 +1,6 @@
-# heart-failure-prediction
+# Heart Disease Prediction
 
-A machine learning project that predicts the likelihood of heart failure based on clinical features using the Kaggle Heart Failure Prediction dataset.
+A machine learning application that predicts the likelihood of heart disease based on clinical features using the Kaggle Heart Failure Prediction dataset, with an interactive Streamlit interface.
 
 ## Project Structure
 - data/: Contains the dataset (`heart.csv`).
